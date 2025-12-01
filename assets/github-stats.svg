@@ -1,58 +1,81 @@
-<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="320" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#F85D7F;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
     </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3FB950;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#F85D7F;stop-opacity:0.3" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
   
-  <!-- Background -->
-  <rect width="500" height="200" fill="#0D1117" rx="10"/>
+  <!-- Background with gradient overlay -->
+  <rect width="800" height="320" fill="#0D1117" rx="15"/>
+  <rect width="800" height="320" fill="url(#grad2)" rx="15" opacity="0.1"/>
   
-  <!-- Title -->
-  <text x="250" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="url(#grad1)" text-anchor="middle">
-    ⚔️ Real GitHub Stats (Public + Private)
+  <!-- Title Section -->
+  <text x="400" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="bold" fill="url(#grad1)" text-anchor="middle" filter="url(#glow)">
+    ⚔️ REAL GITHUB IMPACT ⚔️
+  </text>
+  <text x="400" y="75" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E" text-anchor="middle">
+    Public + Private Work • All 318 Repositories
   </text>
   
-  <!-- Stats Grid -->
-  <g transform="translate(50, 60)">
-    <!-- Commits -->
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" fill="#F85D7F" font-weight="bold">
-      🔥 61
+  <!-- Main Stats Grid -->
+  <g transform="translate(80, 120)">
+    <!-- Commits Box -->
+    <rect x="-20" y="-30" width="200" height="110" fill="#161B22" rx="10" stroke="#F85D7F" stroke-width="2" opacity="0.8"/>
+    <text x="90" y="0" font-family="'Segoe UI', Arial, sans-serif" font-size="48" fill="#F85D7F" font-weight="bold" text-anchor="middle">
+      61
     </text>
-    <text x="0" y="40" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
-      Commits (30d)
+    <text x="90" y="25" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
+      🔥 COMMITS
     </text>
-    
-    <!-- Repos -->
-    <text x="150" y="20" font-family="Arial, sans-serif" font-size="14" fill="#8B5CF6" font-weight="bold">
-      🛸 318
-    </text>
-    <text x="150" y="40" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
-      Total Repos
+    <text x="90" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
+      Last 30 Days
     </text>
     
-    <!-- Pull Requests -->
-    <text x="300" y="20" font-family="Arial, sans-serif" font-size="14" fill="#3FB950" font-weight="bold">
-      ⚔️ 0
+    <!-- Repos Box -->
+    <rect x="220" y="-30" width="200" height="110" fill="#161B22" rx="10" stroke="#8B5CF6" stroke-width="2" opacity="0.8"/>
+    <text x="310" y="0" font-family="'Segoe UI', Arial, sans-serif" font-size="48" fill="#8B5CF6" font-weight="bold" text-anchor="middle">
+      318
     </text>
-    <text x="300" y="40" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
-      Pull Requests
+    <text x="310" y="25" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
+      🛸 REPOSITORIES
+    </text>
+    <text x="310" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
+      201 Public • 117 Private
+    </text>
+    
+    <!-- PRs Box -->
+    <rect x="460" y="-30" width="200" height="110" fill="#161B22" rx="10" stroke="#3FB950" stroke-width="2" opacity="0.8"/>
+    <text x="550" y="0" font-family="'Segoe UI', Arial, sans-serif" font-size="48" fill="#3FB950" font-weight="bold" text-anchor="middle">
+      0
+    </text>
+    <text x="550" y="25" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
+      ⚔️ PULL REQUESTS
+    </text>
+    <text x="550" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
+      Last 30 Days
     </text>
   </g>
   
-  <!-- Repo Breakdown -->
-  <g transform="translate(50, 130)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#C9D1D9">
-      📊 201 Public · 117 Private
-    </text>
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="10" fill="#8B949E">
-      Top: Python · TypeScript · JavaScript · Jupyter Noteboo...
-    </text>
-  </g>
+  <!-- Tech Stack Bar -->
+  <rect x="80" y="250" width="640" height="40" fill="#161B22" rx="8" opacity="0.6"/>
+  <text x="400" y="275" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#C9D1D9" text-anchor="middle">
+    💀 Primary Stack: Python · TypeScript · JavaScript · Jupyter Notebook · C#
+  </text>
   
   <!-- Last Updated -->
-  <text x="250" y="190" font-family="Arial, sans-serif" font-size="9" fill="#6E7681" text-anchor="middle">
-    Updated: 2025-12-01 04:29 UTC
+  <text x="400" y="310" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#6E7681" text-anchor="middle">
+    🤖 Auto-Updated: December 01, 2025 at 05:44 UTC
   </text>
 </svg>

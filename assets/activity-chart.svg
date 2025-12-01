@@ -1,79 +1,83 @@
-<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="500" height="200" fill="#0D1117" rx="10"/>
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3FB950;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="titleGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3FB950;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F85D7F;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
   
-  <!-- Title -->
-  <text x="250" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#3FB950" text-anchor="middle">
-    ⚡ 30-Day Commit Activity
+  <!-- Background -->
+  <rect width="800" height="400" fill="#0D1117" rx="15"/>
+  
+  <!-- Title Section -->
+  <text x="400" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="bold" fill="url(#titleGrad2)" text-anchor="middle">
+    ⚡ 30-DAY COMMIT ACTIVITY
+  </text>
+  <text x="400" y="70" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8B949E" text-anchor="middle">
+    Total: 61 commits • Peak: 14 commits/day
   </text>
   
+  <!-- Chart Area -->
+  <rect x="60" y="100" width="680" height="240" fill="#161B22" rx="10" opacity="0.3"/>
+  
   <!-- Chart -->
-  <g transform="translate(50, 60)">
+  <g transform="translate(80, 120)">
 
-    <rect x="0.0" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="14.666666666666666" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="29.333333333333332" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="44.0" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="58.666666666666664" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="73.33333333333333" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="88.0" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="102.66666666666666" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="117.33333333333333" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="132.0" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="146.66666666666666" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="161.33333333333331" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="176.0" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="190.66666666666666" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="205.33333333333331" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="220.0" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="234.66666666666666" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="249.33333333333331" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="264.0" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="278.66666666666663" y="100.0" width="12.666666666666666" height="0.0" fill="#21262D" rx="2"/>
-
-    <rect x="293.3333333333333" y="42.85714285714286" width="12.666666666666666" height="57.14285714285714" fill="#3FB950" rx="2"/>
-
-    <rect x="308.0" y="71.42857142857143" width="12.666666666666666" height="28.57142857142857" fill="#3FB950" rx="2"/>
-
-    <rect x="322.66666666666663" y="21.42857142857143" width="12.666666666666666" height="78.57142857142857" fill="#3FB950" rx="2"/>
-
-    <rect x="337.3333333333333" y="64.28571428571428" width="12.666666666666666" height="35.714285714285715" fill="#3FB950" rx="2"/>
-
-    <rect x="352.0" y="57.142857142857146" width="12.666666666666666" height="42.857142857142854" fill="#3FB950" rx="2"/>
-
-    <rect x="366.66666666666663" y="85.71428571428572" width="12.666666666666666" height="14.285714285714285" fill="#3FB950" rx="2"/>
-
-    <rect x="381.3333333333333" y="85.71428571428572" width="12.666666666666666" height="14.285714285714285" fill="#3FB950" rx="2"/>
-
-    <rect x="396.0" y="57.142857142857146" width="12.666666666666666" height="42.857142857142854" fill="#3FB950" rx="2"/>
-
-    <rect x="410.66666666666663" y="0.0" width="12.666666666666666" height="100.0" fill="#3FB950" rx="2"/>
-
-    <rect x="425.3333333333333" y="78.57142857142857" width="12.666666666666666" height="21.428571428571427" fill="#3FB950" rx="2"/>
-
+    <rect x="0.0" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="23.333333333333332" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="46.666666666666664" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="70.0" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="93.33333333333333" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="116.66666666666666" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="140.0" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="163.33333333333331" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="186.66666666666666" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="210.0" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="233.33333333333331" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="256.66666666666663" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="280.0" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="303.3333333333333" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="326.66666666666663" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="350.0" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="373.3333333333333" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="396.66666666666663" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="420.0" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="443.3333333333333" y="180.0" width="21.333333333333332" height="0.0" fill="#21262D" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="466.66666666666663" y="77.14285714285715" width="21.333333333333332" height="102.85714285714285" fill="#F85D7F" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="490.0" y="128.57142857142858" width="21.333333333333332" height="51.42857142857142" fill="#8B5CF6" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="513.3333333333333" y="38.571428571428584" width="21.333333333333332" height="141.42857142857142" fill="#3FB950" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="536.6666666666666" y="115.71428571428571" width="21.333333333333332" height="64.28571428571429" fill="#8B5CF6" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="560.0" y="102.85714285714286" width="21.333333333333332" height="77.14285714285714" fill="#F85D7F" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="583.3333333333333" y="154.28571428571428" width="21.333333333333332" height="25.71428571428571" fill="#8B5CF6" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="606.6666666666666" y="154.28571428571428" width="21.333333333333332" height="25.71428571428571" fill="#8B5CF6" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="630.0" y="102.85714285714286" width="21.333333333333332" height="77.14285714285714" fill="#F85D7F" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="653.3333333333333" y="0.0" width="21.333333333333332" height="180.0" fill="#3FB950" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <rect x="676.6666666666666" y="141.42857142857144" width="21.333333333333332" height="38.57142857142857" fill="#8B5CF6" rx="3" filter="url(#glow2)" opacity="0.85"/>
+    <line x1="0" y1="0.0" x2="640" y2="0.0" stroke="#30363D" stroke-width="1" opacity="0.3"/>
+    <line x1="0" y1="45.0" x2="640" y2="45.0" stroke="#30363D" stroke-width="1" opacity="0.3"/>
+    <line x1="0" y1="90.0" x2="640" y2="90.0" stroke="#30363D" stroke-width="1" opacity="0.3"/>
+    <line x1="0" y1="135.0" x2="640" y2="135.0" stroke="#30363D" stroke-width="1" opacity="0.3"/>
+    <line x1="0" y1="180.0" x2="640" y2="180.0" stroke="#30363D" stroke-width="1" opacity="0.3"/>
   </g>
   
-  <!-- Stats -->
-  <text x="250" y="180" font-family="Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
-    Total: 61 commits | Peak: 14 commits/day
+  <!-- Y-axis labels -->
+  <text x="60" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6E7681">14</text>
+  <text x="60" y="210" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6E7681">7</text>
+  <text x="60" y="305" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6E7681">0</text>
+  
+  <!-- Footer -->
+  <text x="400" y="380" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6E7681" text-anchor="middle">
+    🤖 Real-time tracking • Updated: December 01, 2025 at 05:44 UTC
   </text>
 </svg>
