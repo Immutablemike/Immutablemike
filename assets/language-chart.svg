@@ -1,0 +1,68 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="500" height="300" fill="#0D1117" rx="10"/>
+  
+  <!-- Title -->
+  <text x="250" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F85D7F" text-anchor="middle">
+    💀 Language Distribution
+  </text>
+
+  <!-- Python -->
+  <text x="30" y="60" font-family="Arial, sans-serif" font-size="12" fill="#C9D1D9">
+    Python
+  </text>
+  <rect x="130" y="48" width="85.56422053415062" height="18" fill="#3572A5" rx="3"/>
+  <text x="225.56422053415062" y="60" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
+    24.4%
+  </text>
+
+  <!-- TypeScript -->
+  <text x="30" y="95" font-family="Arial, sans-serif" font-size="12" fill="#C9D1D9">
+    TypeScript
+  </text>
+  <rect x="130" y="83" width="63.636227359184275" height="18" fill="#3178C6" rx="3"/>
+  <text x="203.63622735918426" y="95" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
+    18.2%
+  </text>
+
+  <!-- JavaScript -->
+  <text x="30" y="130" font-family="Arial, sans-serif" font-size="12" fill="#C9D1D9">
+    JavaScript
+  </text>
+  <rect x="130" y="118" width="40.510391553429116" height="18" fill="#F1E05A" rx="3"/>
+  <text x="180.51039155342912" y="130" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
+    11.6%
+  </text>
+
+  <!-- Jupyter Notebook -->
+  <text x="30" y="165" font-family="Arial, sans-serif" font-size="12" fill="#C9D1D9">
+    Jupyter Notebook
+  </text>
+  <rect x="130" y="153" width="28.44661156500276" height="18" fill="#DA5B0B" rx="3"/>
+  <text x="168.44661156500277" y="165" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
+    8.1%
+  </text>
+
+  <!-- C# -->
+  <text x="30" y="200" font-family="Arial, sans-serif" font-size="12" fill="#C9D1D9">
+    C#
+  </text>
+  <rect x="130" y="188" width="26.96230932494033" height="18" fill="#178600" rx="3"/>
+  <text x="166.96230932494032" y="200" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
+    7.7%
+  </text>
+
+  <!-- C -->
+  <text x="30" y="235" font-family="Arial, sans-serif" font-size="12" fill="#C9D1D9">
+    C
+  </text>
+  <rect x="130" y="223" width="22.014333677926842" height="18" fill="#555555" rx="3"/>
+  <text x="162.01433367792686" y="235" font-family="Arial, sans-serif" font-size="11" fill="#8B949E">
+    6.3%
+  </text>
+
+  <!-- Last Updated -->
+  <text x="250" y="290" font-family="Arial, sans-serif" font-size="9" fill="#6E7681" text-anchor="middle">
+    Generated from 81 languages across all repos
+  </text>
+</svg>
