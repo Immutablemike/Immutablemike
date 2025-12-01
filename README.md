@@ -240,8 +240,6 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 
 **🔥 59 Commits (Last 30 Days)** | **⚔️ 0 Pull Requests** | **🛸 318 Total Repositories**
 
-**📊 Primary Stack:** | **⚔️ 300+ Pull Requests** | **🛸 500+ Total Repositories**
-
 **📊 Primary Stack:** Python · TypeScript · JavaScript · Jupyter Notebook · C# · C
 
 ---
