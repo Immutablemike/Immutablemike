@@ -51,7 +51,7 @@ As founder of **Immutability.Space**, I design modular, agentic systems that con
 - 📝 I regularly write articles on [https://www.immutability.space/blog](https://www.immutability.space/blog) 🛸
 - 💬 Ask me about **Tokenizing Everything and Audience Segmentation with Blockchain and AI** 😈
 - 📫 How to reach me **space@immutability.space** 😸
-- ⚡ Fun fact **Young Dev in an Old Body** �
+- ⚡ Fun fact **Young Dev in an Old Body** 🧙‍♂️
 
 ---
 
@@ -217,11 +217,13 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=immutablemike&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="immutablemike" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=immutablemike&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="immutablemike" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="immutablemike" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true&show_owner=true" alt="immutablemike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immutablemike&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="immutablemike" /></p>
+
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=immutablemike&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F" alt="immutablemike" /></p>
 
 </div>
 
@@ -302,6 +304,7 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 
 ---
 
-*Profile Last Updated: October 2025* 😸
+*Profile Last Updated: November 2025* 😸
+*Stats auto-update weekly via GitHub Actions* 🤖
 
 </div>
