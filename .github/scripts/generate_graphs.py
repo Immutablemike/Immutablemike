@@ -40,47 +40,47 @@ def generate_stats_card(stats):
   </text>
   
   <!-- Main Stats Grid -->
-  <g transform="translate(80, 120)">
+  <g transform="translate(60, 120)">
     <!-- Commits Box -->
-    <rect x="-20" y="-30" width="200" height="110" fill="#161B22" rx="10" stroke="#F85D7F" stroke-width="2" opacity="0.8"/>
-    <text x="90" y="0" font-family="'Segoe UI', Arial, sans-serif" font-size="48" fill="#F85D7F" font-weight="bold" text-anchor="middle">
+    <rect x="0" y="-35" width="220" height="120" fill="#161B22" rx="10" stroke="#F85D7F" stroke-width="2" opacity="0.8"/>
+    <text x="110" y="5" font-family="'Segoe UI', Arial, sans-serif" font-size="42" fill="#F85D7F" font-weight="bold" text-anchor="middle">
       {stats['commits']}
     </text>
-    <text x="90" y="25" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
+    <text x="110" y="32" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
       🔥 COMMITS
     </text>
-    <text x="90" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
+    <text x="110" y="52" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
       Last 30 Days
     </text>
     
     <!-- Repos Box -->
-    <rect x="220" y="-30" width="200" height="110" fill="#161B22" rx="10" stroke="#8B5CF6" stroke-width="2" opacity="0.8"/>
-    <text x="310" y="0" font-family="'Segoe UI', Arial, sans-serif" font-size="48" fill="#8B5CF6" font-weight="bold" text-anchor="middle">
+    <rect x="240" y="-35" width="220" height="120" fill="#161B22" rx="10" stroke="#8B5CF6" stroke-width="2" opacity="0.8"/>
+    <text x="350" y="5" font-family="'Segoe UI', Arial, sans-serif" font-size="42" fill="#8B5CF6" font-weight="bold" text-anchor="middle">
       {stats['total_repos']}
     </text>
-    <text x="310" y="25" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
+    <text x="350" y="32" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
       🛸 REPOSITORIES
     </text>
-    <text x="310" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
+    <text x="350" y="52" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
       {stats['public_repos']} Public • {stats['private_repos']} Private
     </text>
     
     <!-- PRs Box -->
-    <rect x="460" y="-30" width="200" height="110" fill="#161B22" rx="10" stroke="#3FB950" stroke-width="2" opacity="0.8"/>
-    <text x="550" y="0" font-family="'Segoe UI', Arial, sans-serif" font-size="48" fill="#3FB950" font-weight="bold" text-anchor="middle">
+    <rect x="480" y="-35" width="220" height="120" fill="#161B22" rx="10" stroke="#3FB950" stroke-width="2" opacity="0.8"/>
+    <text x="590" y="5" font-family="'Segoe UI', Arial, sans-serif" font-size="42" fill="#3FB950" font-weight="bold" text-anchor="middle">
       {stats['prs']}
     </text>
-    <text x="550" y="25" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
+    <text x="590" y="32" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
       ⚔️ PULL REQUESTS
     </text>
-    <text x="550" y="45" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
+    <text x="590" y="52" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8B949E" text-anchor="middle">
       Last 30 Days
     </text>
   </g>
   
   <!-- Tech Stack Bar -->
-  <rect x="80" y="250" width="640" height="40" fill="#161B22" rx="8" opacity="0.6"/>
-  <text x="400" y="275" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#C9D1D9" text-anchor="middle">
+  <rect x="60" y="255" width="680" height="40" fill="#161B22" rx="8" opacity="0.6"/>
+  <text x="400" y="280" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#C9D1D9" text-anchor="middle">
     💀 Primary Stack: {stats['top_languages']}
   </text>
   
