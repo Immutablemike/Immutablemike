@@ -217,21 +217,25 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=immutablemike&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true&langs_count=12&hide=html,css&card_width=320" alt="immutablemike" /></p>
+### 💀 **Real Stats (Public + Private Work)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true&show_owner=true" alt="immutablemike" /></p>
+**🔥 1000+ Commits This Month** | **⚔️ 300+ Pull Requests** | **🛸 500+ Total Repositories**
+
+**📊 Primary Stack:** Python · TypeScript · JavaScript · Rust · Solidity · Go
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="immutablemike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immutablemike&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="immutablemike" /></p>
-
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=immutablemike&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F" alt="immutablemike" /></p>
 
 </div>
 
 ### 💀 **Portfolio Highlights**
-- **178 Public Repositories** - Extensive open-source contributions ⚔️
-- **Active Since March 2025** - Rapid development and innovation cycle 🔥
-- **Diverse Technology Stack** - From AI/ML to business automation ⚡
-- **Community Impact** - Building tools that solve real-world problems 👽
+- **201 Public Repositories** - Extensive open-source contributions ⚔️
+- **500+ Total Repositories** - Including private client work and commercial projects 🔥
+- **1000+ Monthly Commits** - Active development across AI/ML, Web3, and quantitative systems ⚡
+- **300+ Pull Requests** - Collaborative development and code review leadership 👽
 
 ---
 
