@@ -111,17 +111,22 @@ def main():
     new_stats = f"\\1**🔥 {total_commits} Commits (Last 30 Days)** | **⚔️ {total_prs} Pull Requests** | **🛸 {total_repos} Total Repositories**\n\n**📊 Primary Stack:**\\2 {lang_str}"
 
     updated_readme = re.sub(stats_pattern, new_stats, readme)
-    
+
     # If regex didn't match, try simpler approach
-    if "### 💀 **Real Stats" in updated_readme and str(total_commits) not in updated_readme:
+    if (
+        "### 💀 **Real Stats" in updated_readme
+        and str(total_commits) not in updated_readme
+    ):
         # Simple line-by-line replacement
-        lines = readme.split('\n')
+        lines = readme.split("\n")
         for i, line in enumerate(lines):
-            if line.startswith('**🔥'):
-                lines[i] = f"**🔥 {total_commits} Commits (Last 30 Days)** | **⚔️ {total_prs} Pull Requests** | **🛸 {total_repos} Total Repositories**"
-            elif line.startswith('**📊 Primary Stack:**'):
+            if line.startswith("**🔥"):
+                lines[i] = (
+                    f"**🔥 {total_commits} Commits (Last 30 Days)** | **⚔️ {total_prs} Pull Requests** | **🛸 {total_repos} Total Repositories**"
+                )
+            elif line.startswith("**📊 Primary Stack:**"):
                 lines[i] = f"**📊 Primary Stack:** {lang_str}"
-        readme = '\n'.join(lines)
+        readme = "\n".join(lines)
     else:
         readme = updated_readme
 

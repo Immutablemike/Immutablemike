@@ -1,0 +1,41 @@
+name: Generate Custom Stats Graphs
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  generate-graphs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+        
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: pip install PyGithub
+        
+      - name: Generate Stats Graphs
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python .github/scripts/generate_graphs.py
+        
+      - name: Update README with graph links
+        run: |
+          # Update README to use our custom graphs
+          python .github/scripts/update_stats.py
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/*.svg README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎨 Update custom stats graphs [skip ci]" && git push)

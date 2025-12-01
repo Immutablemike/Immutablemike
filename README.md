@@ -244,9 +244,18 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="immutablemike" /></p>
+<!-- Custom Stats Graphs Generated from ALL Repos (Public + Private) -->
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="Real GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immutablemike&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="immutablemike" /></p>
+<p align="center">
+  <img src="./assets/language-chart.svg" alt="Language Distribution" />
+</p>
+
+<p align="center">
+  <img src="./assets/activity-chart.svg" alt="30-Day Activity" />
+</p>
 
 </div>
 
