@@ -17,7 +17,7 @@
 </p>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immutablemike&theme=radical&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&include_all_commits=true" alt="immutablemike" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immutablemike&theme=radical&no-frame=true&no-bg=false&margin-w=4&include_all_commits=true&count_private=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="immutablemike" /></a> 
 </p>
 
 ---
@@ -217,7 +217,7 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=immutablemike&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true&langs_count=10&hide=html,css&card_width=400" alt="immutablemike" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=immutablemike&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true&langs_count=12&hide=html,css&card_width=320" alt="immutablemike" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true&show_owner=true" alt="immutablemike" /></p>
 
