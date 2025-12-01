@@ -13,6 +13,9 @@ jobs:
       contents: write
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -21,58 +24,16 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
+          committer_message: "🤖 Update metrics"
           
           # Plugin: Languages
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_categories: markup, programming, data
-          plugin_languages_colors: github
-          plugin_languages_limit: 12
-          plugin_languages_recent_categories: markup, programming, data
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 1000
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          
-          # Plugin: Lines of code
-          plugin_lines: yes
-          plugin_lines_history_limit: 3
-          plugin_lines_repositories_limit: 8
-          plugin_lines_sections: base
-          
-          # Plugin: Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
+          plugin_languages_colors: github
           
           # Plugin: Activity
           plugin_activity: yes
-          plugin_activity_days: 30
+          plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 8
-          plugin_activity_load: 1000
-          plugin_activity_visibility: all
-          
-          # Plugin: Code habits (requires private repos access)
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          
-          # Plugin: Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          
-          # Output
-          filename: metrics.svg
-          
-      - name: Commit metrics
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add metrics.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update metrics [skip ci]" && git push)
+          plugin_activity_limit: 5
