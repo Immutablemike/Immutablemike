@@ -520,6 +520,8 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 
 **📊 Primary Stack:** Python · TypeScript · JavaScript · C · Jupyter Notebook · C#
 
+**📊 Primary Stack:** Python · TypeScript · JavaScript · C · Jupyter Notebook · C#
+
 **📊 Primary Stack:** Python · TypeScript · JavaScript · Jupyter Notebook · C# · C
 
 **📊 Primary Stack:** Python · TypeScript · JavaScript · Jupyter Notebook · C# · C
