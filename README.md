@@ -31,14 +31,6 @@
 <!-- Line Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Trophies Section - PROMINENT -->
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=immutablemike&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&include_all_commits=true&count_private=true" alt="Trophies"/>
-</a>
-</p>
-
 <!-- Line Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
