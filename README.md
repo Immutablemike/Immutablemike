@@ -95,6 +95,17 @@ As founder of **Immutability.Space**, I design modular, agentic systems that con
 
 ---
 
+## 🔥 GitHub Streak & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=immutablemike&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=immutablemike&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=immutablemike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10" alt="Top Languages" width="60%"/>
+</p>
+
 ---
 
 ## 📈 Contribution Graph
