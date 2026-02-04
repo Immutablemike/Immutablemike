@@ -92,13 +92,13 @@ As founder of **Immutability.Space**, I design modular, agentic systems that con
 <div align="center">
 
 <!-- Custom Stats Card - Beautiful Graph -->
-<img src="./assets/github-stats.svg" alt="GitHub Stats" width="100%"/>
+<img src="https://raw.githubusercontent.com/Immutablemike/Immutablemike/main/assets/github-stats.svg" alt="GitHub Stats" width="100%"/>
 
 <!-- Language Chart -->
-<img src="./assets/language-chart.svg" alt="Language Chart" width="100%"/>
+<img src="https://raw.githubusercontent.com/Immutablemike/Immutablemike/main/assets/language-chart.svg" alt="Language Chart" width="100%"/>
 
 <!-- Activity Chart -->
-<img src="./assets/activity-chart.svg" alt="Activity Chart" width="100%"/>
+<img src="https://raw.githubusercontent.com/Immutablemike/Immutablemike/main/assets/activity-chart.svg" alt="Activity Chart" width="100%"/>
 
 </div>
 
@@ -108,7 +108,7 @@ As founder of **Immutability.Space**, I design modular, agentic systems that con
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=immutablemike&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
 </p>
 
 <p align="center">
