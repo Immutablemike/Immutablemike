@@ -95,12 +95,19 @@ As founder of **Immutability.Space**, I design modular, agentic systems that con
 
 ---
 
-## 🔥 GitHub Streak & Stats
+## 🔥 GitHub Stats (Public + Private)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=immutablemike&theme=radical" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=immutablemike&theme=radical" alt="GitHub Stats" width="49%"/>
-</p>
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| **Total Repositories** | **383** |
+| Public Repos | 254 |
+| Private Repos | 129 |
+| Total Stars | 32 |
+| Contributions (2026) | 82 |
+
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=immutablemike&theme=radical" alt="Top Languages" width="60%"/>
