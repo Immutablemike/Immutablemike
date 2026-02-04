@@ -1,10 +1,11 @@
 # ⚔️ **Immutable Mike Seiler** 👽
 
-### *Systems Architect | Edge-Native genAI Engineer | Tokenized Economies | Quant + Web3 Architect*
+<div align="center">
+
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Systems+Architect+%7C+AI%2FML+Engineer;Web3+%2B+Quant+%2B+Tokenized+Economies;Building+the+Agentic+Future+%F0%9F%9B%B8" alt="Typing SVG" /></a>
 
 ### *Founder, Immutability.Space | HumanAtlas.ai*
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-michaeljohnseiler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeljohnseiler/)
 [![GitHub](https://img.shields.io/badge/GitHub-Immutablemike-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Immutablemike)
@@ -244,17 +245,23 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 **📊 Primary Stack:** Python · TypeScript · JavaScript · C · Jupyter Notebook · C#
 <!-- STATS_END -->
 
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immutablemike&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </p>
 
+<!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="./assets/language-chart.svg" alt="Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immutablemike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
 </p>
 
-<p align="center">
-  <img src="./assets/activity-chart.svg" alt="30-Day Activity" />
-</p>
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Immutablemike/Immutablemike/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Immutablemike/Immutablemike/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Immutablemike/Immutablemike/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
