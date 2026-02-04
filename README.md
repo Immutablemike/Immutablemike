@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Immutable%20Mike&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Systems%20Architect%20|%20AI/ML%20Engineer%20|%20Web3%20Builder&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Systems+Architect+%7C+AI%2FML+Engineer;Web3+%2B+Quant+%2B+Tokenized+Economies;Building+the+Agentic+Future+%F0%9F%9B%B8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Systems+Architect+%7C+AI%2FML+Engineer;Web3+%2B+Quant+%2B+Tokenized+Economies;Building+the+Agentic+Future+%F0%9F%9B%B8" alt="Typing SVG" /></a>
 
 ### *Founder, Immutability.Space | HumanAtlas.ai*
 
@@ -34,7 +34,7 @@
 <!-- Trophies Section - PROMINENT -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+
   <img src="https://github-profile-trophy.vercel.app/?username=immutablemike&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&include_all_commits=true&count_private=true" alt="Trophies"/>
 </a>
 </p>
@@ -70,7 +70,6 @@ As founder of **Immutability.Space**, I design modular, agentic systems that con
 
 ## 🏢 Current Focus
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
 - 🔭 I'm currently working on [The Immutability Space](https://www.immutability.space) 👽
 - 🌱 I'm currently learning **Quant Data Science - How to not blow up my systems** 💀
@@ -107,12 +106,12 @@ As founder of **Immutability.Space**, I design modular, agentic systems that con
 ## 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immutablemike&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=immutablemike&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=immutablemike&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=immutablemike&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immutablemike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=immutablemike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10" alt="Top Languages" width="60%"/>
 </p>
 
 ---
@@ -218,9 +217,9 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 ### ⚔️ Featured Open Source Tools
 
 <p align="center">
-<a href="https://github.com/Immutablemike/GitTalker"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Immutablemike&repo=GitTalker&theme=radical&bg_color=0D1117&title_color=FF6B6B&hide_border=true&icon_color=8B5CF6&show_icons=false" alt="GitTalker"/></a>
-<a href="https://github.com/Immutablemike/ENVable"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Immutablemike&repo=ENVable&theme=radical&bg_color=0D1117&title_color=FF6B6B&hide_border=true&icon_color=8B5CF6&show_icons=false" alt="ENVable"/></a>
-<a href="https://github.com/Immutablemike/D4Y_Registrar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Immutablemike&repo=D4Y_Registrar&theme=radical&bg_color=0D1117&title_color=FF6B6B&hide_border=true&icon_color=8B5CF6&show_icons=false" alt="D4Y_Registrar"/></a>
+<a href="https://github.com/Immutablemike/GitTalker"><img width="278" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Immutablemike&repo=GitTalker&theme=radical&bg_color=0D1117&title_color=FF6B6B&hide_border=true&icon_color=8B5CF6&show_icons=false" alt="GitTalker"/></a>
+<a href="https://github.com/Immutablemike/ENVable"><img width="278" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Immutablemike&repo=ENVable&theme=radical&bg_color=0D1117&title_color=FF6B6B&hide_border=true&icon_color=8B5CF6&show_icons=false" alt="ENVable"/></a>
+<a href="https://github.com/Immutablemike/D4Y_Registrar"><img width="278" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Immutablemike&repo=D4Y_Registrar&theme=radical&bg_color=0D1117&title_color=FF6B6B&hide_border=true&icon_color=8B5CF6&show_icons=false" alt="D4Y_Registrar"/></a>
 </p>
 
 **🔥 GitTalker** - *The realest GitHub repository assistant with urban energy* 💀
