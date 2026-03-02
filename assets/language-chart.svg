@@ -26,7 +26,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="128.4952376283042" height="40" fill="#3178C6" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="132.23056003150543" height="40" fill="#3178C6" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -35,14 +35,14 @@
     
     <!-- Percentage -->
     <text x="585" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" text-anchor="end" font-weight="bold">
-      21.4%
+      22.0%
     </text>
   </g>
   <g transform="translate(80, 155)">
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="123.52062275103448" height="40" fill="#3572A5" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="121.07210478441137" height="40" fill="#3572A5" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -51,14 +51,14 @@
     
     <!-- Percentage -->
     <text x="585" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" text-anchor="end" font-weight="bold">
-      20.6%
+      20.2%
     </text>
   </g>
   <g transform="translate(80, 200)">
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="65.8683479969932" height="40" fill="#F1E05A" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="66.36055140384815" height="40" fill="#F1E05A" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -67,14 +67,14 @@
     
     <!-- Percentage -->
     <text x="585" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" text-anchor="end" font-weight="bold">
-      11.0%
+      11.1%
     </text>
   </g>
   <g transform="translate(80, 245)">
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="42.98133140472437" height="40" fill="#DA5B0B" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="43.401342468495024" height="40" fill="#DA5B0B" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -90,23 +90,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="38.40353779814135" height="40" fill="#555555" rx="8" filter="url(#shadow)" opacity="0.9"/>
-    
-    <!-- Language name -->
-    <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
-      C
-    </text>
-    
-    <!-- Percentage -->
-    <text x="585" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" text-anchor="end" font-weight="bold">
-      6.4%
-    </text>
-  </g>
-  <g transform="translate(80, 335)">
-    <!-- Bar background -->
-    <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
-    <!-- Colored bar -->
-    <rect x="0" y="0" width="36.10102672733391" height="40" fill="#00ADD8" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="38.8555890882131" height="40" fill="#00ADD8" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -115,14 +99,30 @@
     
     <!-- Percentage -->
     <text x="585" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" text-anchor="end" font-weight="bold">
-      6.0%
+      6.5%
+    </text>
+  </g>
+  <g transform="translate(80, 335)">
+    <!-- Bar background -->
+    <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
+    <!-- Colored bar -->
+    <rect x="0" y="0" width="37.138922909719426" height="40" fill="#555555" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    
+    <!-- Language name -->
+    <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
+      C
+    </text>
+    
+    <!-- Percentage -->
+    <text x="585" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" text-anchor="end" font-weight="bold">
+      6.2%
     </text>
   </g>
   <g transform="translate(80, 380)">
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="34.420018571744954" height="40" fill="#858585" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="33.2865795595794" height="40" fill="#858585" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -131,14 +131,14 @@
     
     <!-- Percentage -->
     <text x="585" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" text-anchor="end" font-weight="bold">
-      5.7%
+      5.5%
     </text>
   </g>
   <g transform="translate(80, 425)">
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="31.761191442498635" height="40" fill="#178600" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="30.71530666533764" height="40" fill="#178600" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -147,12 +147,12 @@
     
     <!-- Percentage -->
     <text x="585" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" text-anchor="end" font-weight="bold">
-      5.3%
+      5.1%
     </text>
   </g>
 
   <!-- Footer -->
   <text x="400" y="480" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#6E7681" text-anchor="middle">
-    🤖 Based on 99 languages • Updated: February 27, 2026
+    🤖 Based on 99 languages • Updated: March 02, 2026
   </text>
 </svg>
