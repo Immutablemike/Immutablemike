@@ -305,7 +305,7 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 <!-- STATS_START -->
 ### 💀 **Real Stats** *(Public + Private)*
 
-**🔥 611 Commits** *(Last 30 Days)* | **⚔️ 40 Pull Requests** | **🛸 576 Repositories**
+**🔥 602 Commits** *(Last 30 Days)* | **⚔️ 41 Pull Requests** | **🛸 576 Repositories**
 
 **📊 Primary Stack:** TypeScript · Python · JavaScript · C · Jupyter Notebook · HTML
 <!-- STATS_END -->
@@ -319,8 +319,8 @@ Built cross-chain renewable energy exchange and carbon-offset tokenization platf
 |--------|-------|-------------|
 | 🌐 **Public Repos** | 416 | Open-source contributions ⚔️ |
 | 🔒 **Total Repos** | 576 | Including 160 private projects 🔥 |
-| 📈 **Commits** | 611 | Active dev across AI/ML, Web3, quant ⚡ |
-| 🔀 **Pull Requests** | 40 | Code collaboration & review 👽 |
+| 📈 **Commits** | 602 | Active dev across AI/ML, Web3, quant ⚡ |
+| 🔀 **Pull Requests** | 41 | Code collaboration & review 👽 |
 <!-- PORTFOLIO_END -->
 
 ---
