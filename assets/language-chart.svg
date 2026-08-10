@@ -26,7 +26,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="127.75419304562016" height="40" fill="#3178C6" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="127.75028422279323" height="40" fill="#3178C6" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -42,7 +42,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="114.29499158249668" height="40" fill="#3572A5" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="114.2959376128595" height="40" fill="#3572A5" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -58,7 +58,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="62.71096206241478" height="40" fill="#F1E05A" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="62.71148112692822" height="40" fill="#F1E05A" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -74,7 +74,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="51.41201999788229" height="40" fill="#555555" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="51.412445539992746" height="40" fill="#555555" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -90,7 +90,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="47.176095704010656" height="40" fill="#DA5B0B" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="47.176486184978536" height="40" fill="#DA5B0B" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -106,7 +106,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="36.23359105474938" height="40" fill="#E34C26" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="36.23389096358019" height="40" fill="#E34C26" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -122,7 +122,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="35.51406098596068" height="40" fill="#00ADD8" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="35.51435493917364" height="40" fill="#00ADD8" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
@@ -138,7 +138,7 @@
     <!-- Bar background -->
     <rect x="0" y="0" width="600" height="40" fill="#161B22" rx="8" opacity="0.5"/>
     <!-- Colored bar -->
-    <rect x="0" y="0" width="30.15891950826466" height="40" fill="#858585" rx="8" filter="url(#shadow)" opacity="0.9"/>
+    <rect x="0" y="0" width="30.159169136469448" height="40" fill="#858585" rx="8" filter="url(#shadow)" opacity="0.9"/>
     
     <!-- Language name -->
     <text x="15" y="25.0" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C9D1D9" font-weight="600">
